@@ -1,0 +1,20 @@
+
+J
+java:S1604+"(Make this anonymous inner class a lambda(“«ì×ýÿÿÿÿ8ëà¬¥Æ1
+j	java:S116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜äïÐ8¡á¬¥Æ1
+>
+java:S1170"!Make this final field static too.(˜äïÐ8¬á¬¥Æ1
+`
+java:S1874/">Remove this use of "startActivityForResult"; it is deprecated.(ëÖƒ øÿÿÿÿ8Ãá¬¥Æ1
+l
+java:S18745"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ÉÎÍïýÿÿÿÿ8Ãá¬¥Æ1
+„
+java:S3252?"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(½ÑÕ²8Æá¬¥Æ1
+„
+java:S3252D"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(½ÑÕ²8Çá¬¥Æ1
+‰
+java:S3252H"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(Œ¦ˆüÿÿÿÿ8Ìá¬¥Æ1
+‰
+java:S3252h"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(Œ¦ˆüÿÿÿÿ8ö¯µ¥Æ1
+[
+java:S1874r">Remove this use of "startActivityForResult"; it is deprecated.(³‰‹·8Îá¬¥Æ1

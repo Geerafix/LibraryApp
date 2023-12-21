@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LibraryApp</string>
+
+    <string name="hint_book_title">Title...</string>
+    <string name="hint_book_author">Author...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Book not saved because there are empty fields.</string>
+    <string name="book_added">Book added</string>
+    <string name="deleted_book">Book %1$s deleted</string>
+    <string name="book_edited">Book %1$s edited</string>
+    <string name="archived_book">Archived %1$s book</string>
+
+</resources>
